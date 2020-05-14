@@ -1,2 +1,2 @@
-<h1>  Welcome to Infosys Moody's project !!! </h1>
+<h1>  Welcome to INFOSYS Moody's project !!! </h1>
 
